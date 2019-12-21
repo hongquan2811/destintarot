@@ -37,7 +37,7 @@
          <input type="text" onkeyup="showHint(this.value)">
       </form>
       
-      <p>Nhập tên: <span id="txtHint">d</span></p>
+      <p>Nhập họ và tên: <span id="txtHint">d</span></p>
    
    </body>
 </html>
